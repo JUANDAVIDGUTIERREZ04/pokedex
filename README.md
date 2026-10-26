@@ -23,8 +23,8 @@ Este proyecto forma parte del caso de estudio de *Pueblo Paleta Inc. / PumasLab*
 Para desplegar la aplicación garantizando disponibilidad pública y alta velocidad de entrega de contenido estático, se utilizó **Azure Static Web Apps**:
 
 1. **Registro en la plataforma:** 
-   * Se ingresó al portal oficial de [Azure for Students](https://azure.microsoft.com/en-us/free/students/) utilizando la cuenta de correo institucional otorgada por la universidad.
-   * Se completó la validación de identidad y la activación de la suscripción gratuita con los créditos educativos.
+   * Se creó y configuró una cuenta personal en el portal oficial de Microsoft Azure.
+   * Se completó la validación de identidad y se activaron los créditos de cortesía otorgados por la plataforma para el uso de los servicios en la nube.
 2. **Creación del recurso:**
    * En el buscador del Portal de Azure, se seleccionó el servicio **Static Web Apps**.
    * Se hizo clic en *Crear* y se configuró la suscripción, el grupo de recursos y el nombre de la aplicación (`pokedex`).
